@@ -1,0 +1,17 @@
+A. Identificarea proprietăților sistemului adaptiv complex într-un sistem economic
+- Se va alege o unitate economică pe care o veți descrie: scurt istoric, organigramă,
+domeniu de activitate;
+- Încadrarea unității economice alese într-un sistem adaptiv complex prin
+evidențierea proprietăților acestuia ce se regăsesc la nivelul unității economice
+analizate (exemple concrete).
+B. Modelarea bazată pe agenți utilizând NetLogo
+- Descrierea unui model din librăria de modele a soluției informatice NetLogo.
+- Identificarea proprietăților și caracteristicile agenților regăsite în modelul ales;
+- Corelarea modelului ales cu un exemplu din economie, asemănător cu aplicațiile
+făcute la seminar.
+C. Rețele complexe
+- Se va construi o rețea complexă prin intermediul soluției informatice Gephi;
+- Pe modelul construit anterior, se vor descrie proprietăților rețelelor complexe:
+gradul unui nod, conectivitatea, distribuția gradelor, drumul, drumul mediu de
+lungime minimă și distanța geodezică, diametrul rețelei, centralitatea, coeficientul
+de clusterizare, subgrafuri și mărimea componentei Gigant;
